@@ -2,9 +2,9 @@
 React Course from Udemy
 
 <ul>
-  <li>Course: [https://www.udemy.com/course/react-the-complete-guide-incl-redux/](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?couponCode=KEEPLEARNING#instructor-1)</li>
+  <li>Course: https://www.udemy.com/course/react-the-complete-guide-incl-redux/?couponCode=KEEPLEARNING#instructor-1</li>
   <li>Instructor Name: Maximilian Schwarzmüller</li>
-  <li>Intructor Udmey Link: [https://www.udemy.com/course/vuejs-2-the-complete-guide/#instructor-1](https://www.udemy.com/user/maximilian-schwarzmuller/)</li>
+  <li>Intructor Udmey Link: https://www.udemy.com/user/maximilian-schwarzmuller/</li>
 </ul>
 
 <p>
