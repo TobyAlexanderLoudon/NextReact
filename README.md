@@ -1,10 +1,10 @@
 # Next & React
-React Course from Udemy
+React Course from YouTube
 
 <ul>
-  <li>Course: https://www.udemy.com/course/react-the-complete-guide-incl-redux/?couponCode=KEEPLEARNING#instructor-1</li>
-  <li>Instructor Name: Maximilian Schwarzmüller</li>
-  <li>Intructor Udmey Link: https://www.udemy.com/user/maximilian-schwarzmuller/</li>
+  <li>Course: https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI</li>
+  <li>Instructor Name: codevolution</li>
+  <li>Intructor Link: https://www.youtube.com/@Codevolution</li>
 </ul>
 
 <p>
